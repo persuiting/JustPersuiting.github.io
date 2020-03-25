@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>不二臣</title>
   
-  
+  <subtitle>belong yours</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://persuiting.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://persuiting.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Liang Xu</name>
     
   </author>
   
