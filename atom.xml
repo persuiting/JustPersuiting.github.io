@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://persuiting.github.io/"/>
-  <updated>2020-03-30T04:11:29.158Z</updated>
+  <updated>2020-03-30T04:21:46.520Z</updated>
   <id>https://persuiting.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://persuiting.github.io/2020/03/30/Pointoffer/"/>
     <id>https://persuiting.github.io/2020/03/30/Pointoffer/</id>
     <published>2020-03-30T03:22:28.428Z</published>
-    <updated>2020-03-30T04:11:29.158Z</updated>
+    <updated>2020-03-30T04:21:46.520Z</updated>
     
     <summary type="html">
     
@@ -29,8 +29,7 @@
       
         
         
-          &lt;hr&gt;
-&lt;h2 id=&quot;tags-code&quot;&gt;&lt;a href=&quot;#tags-code&quot; class=&quot;headerlink&quot; title=&quot;tags: code&quot;&gt;&lt;/a&gt;tags: code&lt;/h2&gt;&lt;ul&gt;
+          &lt;ul&gt;
 &lt;li&gt;二位数组中的查找&lt;br&gt;&lt;a
         
       
@@ -38,6 +37,8 @@
     </summary>
     
     
+    
+      <category term="算法" scheme="https://persuiting.github.io/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
