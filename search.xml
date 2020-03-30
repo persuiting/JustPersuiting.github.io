@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
+    <title>剑指offer题集</title>
     <url>/2020/03/30/Pointoffer/</url>
     <content><![CDATA[<ul>
 <li>二位数组中的查找<br><a href="https://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=13&tqId=11154&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking" target="_blank" rel="noopener">题目</a><br>解答：<br>思路：首先判断是否为空或者数组无元素，直接返回false;<br>然后从左上角的那个元素开始查找，找到直接返回true，如果比target大，那么列值j–；如果比target小，那么行值i++。最后循环外条件为返回false。</li>
