@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://persuiting.github.io/"/>
-  <updated>2020-03-30T04:30:16.646Z</updated>
+  <updated>2020-03-30T04:31:33.480Z</updated>
   <id>https://persuiting.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://persuiting.github.io/2020/03/30/Pointoffer/"/>
     <id>https://persuiting.github.io/2020/03/30/Pointoffer/</id>
     <published>2020-03-30T03:22:28.428Z</published>
-    <updated>2020-03-30T04:30:16.646Z</updated>
+    <updated>2020-03-30T04:31:33.480Z</updated>
     
     <summary type="html">
     
@@ -37,7 +37,7 @@
     </summary>
     
     
-      <category term="算法" scheme="https://persuiting.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法, 剑指offer" scheme="https://persuiting.github.io/categories/%E7%AE%97%E6%B3%95-%E5%89%91%E6%8C%87offer/"/>
     
     
       <category term="剑指offer" scheme="https://persuiting.github.io/tags/%E5%89%91%E6%8C%87offer/"/>
