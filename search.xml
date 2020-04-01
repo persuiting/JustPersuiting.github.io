@@ -150,10 +150,7 @@
   <entry>
     <title>博客缘起</title>
     <url>/2020/03/20/%E5%8D%9A%E5%AE%A2%E7%BC%98%E8%B5%B7/</url>
-    <content><![CDATA[<p>欢迎大家来到Persuiting的博客空间，个人其实不擅长写文章，<br>但是喜欢记录一下自己平时学习的一些总结，可读性有时候会很差，<br>所以写博客对自己应该也是一个修仙coding的过程吧。</p>
-<h2 id="persuiting-blog"><a href="#persuiting-blog" class="headerlink" title="persuiting blog!"></a>persuiting blog!</h2><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info:<br><a href="https://persuiting.life/" target="_blank" rel="noopener">博客</a><br><a href="https://blog.csdn.net/xuliang1997420" target="_blank" rel="noopener">CSDN</a><br>欢迎大家私信邮箱：<a href="mailto:xuliang_hit@aliyun.com">xuliang_hit@aliyun.com</a></p>
+    <content><![CDATA[<p>欢迎大家来到Persuiting的博客空间，个人其实不擅长写文章，<br>但是喜欢记录一下自己平时学习的一些总结，可读性有时候会很差，<br>所以写博客对自己应该也是一个修仙coding的过程吧。<br>More info:<br><a href="https://persuiting.life/" target="_blank" rel="noopener">博客</a><br><a href="https://blog.csdn.net/xuliang1997420" target="_blank" rel="noopener">CSDN</a><br>欢迎大家私信邮箱：<a href="mailto:xuliang_hit@aliyun.com">xuliang_hit@aliyun.com</a></p>
 ]]></content>
   </entry>
 </search>
