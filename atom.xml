@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://persuiting.github.io/"/>
-  <updated>2020-03-30T04:34:54.606Z</updated>
+  <updated>2020-04-01T10:20:48.755Z</updated>
   <id>https://persuiting.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>剑指offer题集</title>
-    <link href="https://persuiting.github.io/2020/03/30/Pointoffer/"/>
-    <id>https://persuiting.github.io/2020/03/30/Pointoffer/</id>
-    <published>2020-03-30T03:22:28.428Z</published>
-    <updated>2020-03-30T04:34:54.606Z</updated>
+    <title>剑指offer修炼篇一</title>
+    <link href="https://persuiting.github.io/2020/04/01/%E5%89%91%E6%8C%87offer%E4%BF%AE%E7%82%BC%E7%AF%87%E4%B8%80/"/>
+    <id>https://persuiting.github.io/2020/04/01/%E5%89%91%E6%8C%87offer%E4%BF%AE%E7%82%BC%E7%AF%87%E4%B8%80/</id>
+    <published>2020-04-01T10:09:30.628Z</published>
+    <updated>2020-04-01T10:20:48.755Z</updated>
     
     <summary type="html">
     
@@ -45,11 +45,11 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://persuiting.github.io/2020/03/20/hello-world/"/>
-    <id>https://persuiting.github.io/2020/03/20/hello-world/</id>
-    <published>2020-03-20T08:44:07.371Z</published>
-    <updated>2020-03-20T09:04:39.307Z</updated>
+    <title>剑指offer修炼篇二</title>
+    <link href="https://persuiting.github.io/2020/04/01/%E5%89%91%E6%8C%87offer%E4%BF%AE%E7%82%BC%E7%AF%87%E4%BA%8C/"/>
+    <id>https://persuiting.github.io/2020/04/01/%E5%89%91%E6%8C%87offer%E4%BF%AE%E7%82%BC%E7%AF%87%E4%BA%8C/</id>
+    <published>2020-04-01T10:09:30.628Z</published>
+    <updated>2020-04-01T10:21:49.487Z</updated>
     
     <summary type="html">
     
@@ -57,7 +57,36 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;ul&gt;
+&lt;li&gt;调整数组顺序使奇数位于前面偶数位于后面&lt;br&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="https://persuiting.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="剑指offer" scheme="https://persuiting.github.io/tags/%E5%89%91%E6%8C%87offer/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客缘起</title>
+    <link href="https://persuiting.github.io/2020/03/20/%E5%8D%9A%E5%AE%A2%E7%BC%98%E8%B5%B7/"/>
+    <id>https://persuiting.github.io/2020/03/20/%E5%8D%9A%E5%AE%A2%E7%BC%98%E8%B5%B7/</id>
+    <published>2020-03-20T08:44:07.371Z</published>
+    <updated>2020-04-01T10:19:27.697Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;欢迎大家来到Persuiting的博客空间，个人其实不擅长写文章，&lt;br&gt;但是喜欢记录一下自己平时学习的一些总结，可读性有时候会很差，&lt;br&gt;所以写博客对自己应该也是一个修仙coding的过程吧。&lt;/p&gt;
+&lt;h2 id=&quot;persuiting-blog&quot;&gt;&lt;a
         
       
     
